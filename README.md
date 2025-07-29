@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Currently Learning
-- Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS/JS**
+- Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS** (JS in progress, LOL)
 - Getting comfy with **Git & GitHub** (version control = sanity)
 - Running custom ROMs, modding Androids, and taming VMs
 - Exploring OS interfaces. Yeah, I care about the vibes too
