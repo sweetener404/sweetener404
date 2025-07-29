@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gabriel!;Also+known+as+Akhmad+Supriyadi;Or+Arlie+Lou...+sometimes;Or+even+Muratake+Yamada+%F0%9F%91%80;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=27F794&background=FFFC0400&center=true&width=500&lines=Hey!+I'm+Gabriel+Adkins;Also+known+as+Arlie+Lou;Or+Muratake+Yamada...+sometimes;I+study+software+engineering+%F0%9F%92%BE;Welcome+to+my+GItHub+Universe!+%F0%9F%8E%87" alt="Typing SVG" />
 </p>
 
 ## 👋 Hey there, I'm Gabriel! 
