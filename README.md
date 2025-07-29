@@ -34,5 +34,5 @@ Why? For the ✨TouchWiz aesthetic✨. It’s not just nostalgia — it’s a li
 ---
 
 ### 📫 Let’s connect
-Wanna collab, talk tech, or just vibe? Feel free to explore my projects or hit me up!
-Instagram: <a href="www.instagram.com/sweetener404arlie">@sweetener404arlie</a>
+Wanna collab, talk tech, or just vibe? Feel free to explore my projects or hit me up! <br>
+Instagram: <a href="https://www.instagram.com/sweetener404arlie">@sweetener404arlie</a>
