@@ -5,7 +5,7 @@
 
 ## 👋 Hey there, I'm Gabriel!
 
-🎓 I'm a Software Engineering student at **Telkom Schools** — passionate about code, design, and anything tech-related.  
+🎓 I'm a Software Engineering student at **Telkom Schools**! Passionate about code, design, and anything tech-related.  
 🛠️ I'm that person who likes experimenting with stuff, even if it means breaking it just to fix it better.
 
 ---
@@ -14,25 +14,25 @@
 - Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS/JS**
 - Getting comfy with **Git & GitHub** (version control = sanity)
 - Running custom ROMs, modding Androids, and taming VMs
-- Exploring OS interfaces — yeah, I care about the vibes too
+- Exploring OS interfaces. Yeah, I care about the vibes too
 
 ---
 
 ### 🎯 Hobbies & Interests
 - 👨‍💻 Coding mini projects for school... and just for fun
 - 🎮 Casual Minecraft gamer (Java + Bedrock squad)
-- 📱 Into old-school tech: collecting iconic phones like the iPhone 5C
+- 📱 Into old-school tech: collecting iconic phones like the Samsung Note 1, Tizen phones, and others
 - 🎧 Music junkie: Ariana Grande, Sabrina Carpenter, Adele, and more
-- 🧠 Big fan of Windows UI history — from 95 to 11, I've seen it all
+- 🧠 Big fan of Windows UI history! From 95 to 11, I've seen it all
 
 ---
 
 ### 💡 Fun Fact
-I *literally* downgraded a Galaxy Note 1 back to Android Gingerbread.  
+I *literally* downgraded a Galaxy Note 1 back to Android Gingerbread (kinda).  
 Why? For the ✨TouchWiz aesthetic✨. It’s not just nostalgia — it’s a lifestyle 😎
 
 ---
 
 ### 📫 Let’s connect
 Wanna collab, talk tech, or just vibe? Feel free to explore my projects or hit me up!
-
+Instagram: <a href="www.instagram.com/sweetener404arlie">@sweetener404arlie</a>
