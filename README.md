@@ -12,6 +12,7 @@
 
 ### 🚀 Currently Learning
 - Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS** (JS in progress, LOL)
+- Loving my role as a QA in programming. Sometimes Front-End, sometimes QA, LOL
 - Running custom ROMs, modding Androids, and taming VMs
 - Virtual machines explorer (VMware, VBox, Hyper-V) & OS tinkering (Android x86, Windows, Linux, even macOS 👀)
 - Exploring OS interfaces. Yeah, I care about the vibes too
@@ -24,7 +25,7 @@
 - 📱 Into old-school tech: collecting iconic phones like the Samsung Note 1, Tizen phones, and others
 - 🎧 Music junkie: Ariana Grande, Sabrina Carpenter, Adele, and more
 - 🧠 Big fan of Windows UI history! From 95 to 11, I've seen it all
-- 🖥️ Also loves experimenting with macOS (via VMware VMs)
+- 🖥️ Also loves experimenting with macOS and Linux distros (via VMware VMs)
 
 
 ---
@@ -40,3 +41,4 @@ Why? For the ✨TouchWiz aesthetic✨. It’s not just nostalgia — it’s a li
 Wanna collab, talk tech, or just vibe? Feel free to explore my projects or hit me up! <br>
 Instagram: <a href="https://www.instagram.com/sweetener404arlie" target="_blank">@sweetener404arlie</a> <br>
 WhatsApp: <a href="https://wa.link/jfb949">Chat with Arlie Lou</a>
+
