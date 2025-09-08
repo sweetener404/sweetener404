@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=27F794&background=FFFC0400&center=true&width=500&lines=Hey!+I'm+Arlie+Lou;Also+known+as+Gabriel+Adkins;Or+Muratake+Yamada...+sometimes;I+study+software+engineering+%F0%9F%92%BE;Welcome+to+my+GitHub+Universe!+%F0%9F%8E%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=27F794&background=FFFC0400&center=true&width=500&lines=Hey!+I'm+Arlie+Lou+&#128568;;Also+known+as+Gabriel+Adkins;Or+Muratake+Yamada...+sometimes;I+study+software+engineering+%F0%9F%92%BE;Welcome+to+my+GitHub+Universe!+%F0%9F%8E%87" alt="Typing SVG" />
 </p>
 
 ## 👋 Hey there, I'm Arlie! 
@@ -12,6 +12,7 @@
 
 ### 🚀 Currently Learning
 - Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS** (JS in progress, LOL)
+- Still learning how to use Laravel and stuff... so difficult :(
 - Loving my role as a QA in programming. Sometimes Front-End, sometimes QA, LOL
 - Running custom ROMs, modding Androids, and taming VMs
 - Virtual machines explorer (VMware, VBox, Hyper-V) & OS tinkering (Android x86, Windows, Linux, even macOS 👀)
@@ -21,8 +22,8 @@
 
 ### 🎯 Hobbies & Interests
 - 👨‍💻 Coding mini projects for school... and just for fun, I guess
-- 🎮 Casual Minecraft gamer (Java + Bedrock squad)
-- 📱 Into old-school tech: collecting iconic phones like the Samsung Note 1, Tizen phones, and others
+- 🎮 Casual Minecraft gamer (Java + Bedrock squad). I play both
+- 📱 Into old-school tech: collecting iconic phones like the Samsung Galaxy Note 1, Tizen phones, and others
 - 🎧 Music junkie: Ariana Grande, Sabrina Carpenter, Adele, and more
 - 🧠 Big fan of Windows UI history! From 95 to 11, I've seen it all
 - 🖥️ Also loves experimenting with macOS and Linux distros (via VMware VMs)
@@ -32,7 +33,7 @@
 
 ### 💡 Fun Fact
 I *literally* downgraded a Galaxy Note 1 back to Android Gingerbread (kinda).
-Why? For the ✨TouchWiz aesthetic✨. It’s not just nostalgia — it’s a lifestyle 😎
+Why? For the ✨TouchWiz aesthetic✨. It’s not just nostalgia, more like a lifestyle 😎
 (Technically Android ICS, but the TouchWiz UI is still similar to Gingerbread)
 
 ---
