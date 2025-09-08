@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=27F794&background=FFFC0400&center=true&width=500&lines=Hey!+I'm+Arlie+Lou;Also+known+as+Gabriel+Adkins;Or+Muratake+Yamada...+sometimes;I+study+software+engineering+%F0%9F%92%BE;Welcome+to+my+GitHub+Universe!+%F0%9F%8E%87" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=27F794&background=FFFC0400&center=true&width=500&lines=Hey!+I'm+Arlie+Lou+%F0%9F%98%B8;Also+known+as+Gabriel+Adkins+%F0%9F%8D%B5;I+study+software+engineering+%F0%9F%92%BE;Welcome+to+my+Github+Universe!+%F0%9F%8E%87" alt="Typing SVG" /></a>
 
 ## 👋 Hey there, I'm Arlie! 
 
