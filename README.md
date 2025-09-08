@@ -14,8 +14,8 @@
 - Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS** (JS in progress, LOL)
 - Still learning how to use Laravel and stuff... so difficult :(
 - Loving my role as a QA in programming. Sometimes Front-End, sometimes QA, LOL
-- Running custom ROMs, modding Androids, and taming VMs
-- Virtual machines explorer (VMware, VBox, Hyper-V) & OS tinkering (Android x86, Windows, Linux, even macOS 👀)
+- Running custom ROMs, modding Androids, and hanging around with VMs
+- Virtual machines explorer (VMware, VBox, Hyper-V) & OS enjoyer (Android x86, Windows, Linux, even macOS 👀)
 - Exploring OS interfaces. Yeah, I care about the vibes too
 
 ---
@@ -26,7 +26,7 @@
 - 📱 Into old-school tech: collecting iconic phones like the Samsung Galaxy Note 1, Tizen phones, and others
 - 🎧 Music junkie: Ariana Grande, Sabrina Carpenter, Adele, and more
 - 🧠 Big fan of Windows UI history! From 95 to 11, I've seen it all
-- 🖥️ Also loves experimenting with macOS and Linux distros (via VMware VMs)
+- 🖥️ Also loves experimenting with macOS and Linux distros (with VMware VMs)
 
 
 ---
