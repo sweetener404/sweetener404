@@ -43,4 +43,3 @@ Wanna collab, talk tech, or just vibe? Feel free to explore my projects or hit m
 Business Inquiries: sweetener@outlook.co.id <br>
 Instagram: <a href="https://www.instagram.com/sweetener404arlie" target="_blank">@sweetener404arlie</a> <br>
 WhatsApp: <a href="https://wa.link/jfb949" target="_blank">Chat with Arlie Lou</a>
-
