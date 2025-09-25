@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Currently Learning
-- Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS** (JS in progress, LOL)
+- Crafting full-stack web apps with **PHP**, **MySQL**, **HTML/CSS** (this line is completely BS, LOL)
 - Still learning how to use Laravel and stuff... so difficult :(
 - Loving my role as a QA in programming. Sometimes Front-End, sometimes QA, LOL
 - Running custom ROMs, modding Androids, and hanging around with VMs
